@@ -189,7 +189,7 @@ const lowestWeeklyAverage = weather => {
     );
     return sum / count;
   });
-  return Math.min(...avera  geTemps);
+  return Math.min(...averageTemps);
 };
 
 /* ------------------------------------------------------------------------------------------------
